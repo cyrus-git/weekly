@@ -1,0 +1,12 @@
+
+filder抓包
+mysql数据库
+软件测试用例理论
+
+
+
+虚拟机linux搭建docker gitlab
+
+利用Jenkins运行windows执行cmd命令登录任意一台服务器
+利用Jenkins远程控制服务器执行bash脚本命令执行每周备份MySQL数据库
+利用svn和git和github做文档备份
